@@ -1,2 +1,2 @@
 # Gijs-Tribute
-a tribute page for Gijs our cat
+A tribute page for Gijs our cat
